@@ -1,6 +1,6 @@
 ## Olá, sou o Nicolas 👋  
 ### Técnico em Mecatrônica e estudante de Engenharia de Software  
-Conhecimentos em **C, C++ e Python** | Aprendendo **Java**
+Conhecimentos em **C++, C e Python** | Aprendendo **Java**
 
 <div align="center">
   <img alt="Nicolas-Cplusplus" height="30" width="40"
@@ -16,10 +16,6 @@ Conhecimentos em **C, C++ e Python** | Aprendendo **Java**
 ##
 
 <div align="center">
-  <a href="https://discord.gg/wagxzStdcR" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-
   <a href="mailto:nicolaslourenco32@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
