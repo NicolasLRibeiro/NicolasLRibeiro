@@ -1,6 +1,6 @@
 ## Olá, sou o Nicolas 👋  
 ### Técnico em Mecatrônica e estudante de Engenharia de Software  
-Conhecimentos em **C++, C e Python** | Aprendendo **Java**
+Conhecimentos em **C++, C, Python e Java**
 
 <div align="center">
   <img alt="Nicolas-Cplusplus" height="30" width="40"
