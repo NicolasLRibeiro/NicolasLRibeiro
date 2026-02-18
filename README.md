@@ -1,13 +1,14 @@
 # 👋 Olá, eu sou o Nicolas  
 
- Técnico em Mecatrônica  
- Estudante de Engenharia de Software   
+🎓 Técnico em Mecatrônica  
+💻 Estudante de Engenharia de Software  
+🎯 Focado em desenvolvimento Back-end e aplicações Web  
 
 ---
 
-## Stack & Tecnologias
+## 🚀 Stack & Tecnologias
 
-### Linguagens
+### 💻 Linguagens
 <div align="center">
   <img alt="C++" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -23,7 +24,7 @@
 
 ---
 
-### Desenvolvimento Web
+### 🌐 Desenvolvimento Web
 <div align="center">
   <img alt="React" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -33,7 +34,7 @@
 
 ---
 
-### Banco de Dados
+### 🗄 Banco de Dados
 <div align="center">
   <img alt="MySQL" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -43,7 +44,7 @@
 
 ---
 
-### Ferramentas
+### 🛠 Ferramentas
 <div align="center">
   <img alt="Git" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -51,19 +52,29 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasLRibeiro&show_icons=true&theme=dark)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLRibeiro&layout=compact&theme=dark)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=NicolasLRibeiro&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-![Test](https://github-readme-stats.vercel.app/api?username=octocat)
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLRibeiro&layout=compact&theme=tokyonight"/>
 
-
+</div>
 
 ---
 
-## Contato
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NicolasLRibeiro&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📫 Contato
 
 <div align="center">
   <a href="mailto:nicolaslourenco32@gmail.com">
