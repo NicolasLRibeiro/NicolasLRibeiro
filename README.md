@@ -27,13 +27,22 @@
 ---
 
 ### Banco de Dados
-<div align="center">
-  <img alt="MySQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=neo4j&logoColor=white" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+
+  <img 
+    alt="MySQL" 
+    height="60" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+  />
+
+  <img 
+    alt="Neo4j"
+    height="60"
+    src="https://cdn.simpleicons.org/neo4j/white"
+  />
+
 </div>
+
 
 ---
 
