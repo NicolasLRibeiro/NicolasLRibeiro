@@ -45,8 +45,9 @@
   
   <img 
     alt="Neo4j" 
-    height="50" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-plain.svg" 
+    height="50"
+    <i class="devicon-neo4j-plain"></i>
+           
   />
 </div>
 
