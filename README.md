@@ -27,19 +27,19 @@
 ---
 
 ### Banco de Dados
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-
+### 🗄 Banco de Dados
+<p align="center">
   <img 
     alt="MySQL" 
     height="60" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
   />
-
   <img 
     alt="Neo4j"
     height="60"
     src="https://cdn.simpleicons.org/neo4j/white"
   />
+</p>
 
 </div>
 
