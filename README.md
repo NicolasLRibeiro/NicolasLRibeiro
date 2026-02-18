@@ -53,7 +53,7 @@
 
 ## GitHub Stats
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasLRibeiro&show_icons=true&theme=dark)
 
 ---
 
