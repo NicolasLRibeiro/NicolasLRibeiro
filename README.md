@@ -27,7 +27,6 @@
 ---
 
 ### Banco de Dados
-### 🗄 Banco de Dados
 <p align="center">
   <img 
     alt="MySQL" 
