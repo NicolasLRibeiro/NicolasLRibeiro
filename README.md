@@ -43,10 +43,9 @@
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <img 
-    alt="Neo4j" 
-    height="50"
-    <i class="devicon-neo4j-plain"></i>
+  <img src="https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&logo=neo4j&logoColor=white" />
+
+
            
   />
 </div>
