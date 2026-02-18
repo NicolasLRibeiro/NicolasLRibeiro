@@ -1,64 +1,45 @@
-#  Olá, eu sou o Nicolas  
+# 👋 Olá, eu sou o Nicolas  
 
  Técnico em Mecatrônica  
- Estudante de Engenharia de Software   
+ Estudante de Engenharia de Software  
 
 ---
 
-## Stack & Tecnologias
+##  Stack & Tecnologias
 
 ### Linguagens
 <div align="center">
-  <img alt="C++" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="C" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img alt="Python" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Java" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="JavaScript" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 ---
 
 ### Desenvolvimento Web
 <div align="center">
-  <img alt="React" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="NodeJS" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 ---
 
-###  Banco de Dados
+### Banco de Dados
 <div align="center">
-  <img 
-    alt="MySQL" 
-    height="50" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-  />
+  <img alt="MySQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <img src="https://img.shields.io/badge/Neo4j-000000?style=for-the-badge&logo=neo4j&logoColor=white" />
-
-
-           
-  />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=neo4j&logoColor=white" />
 </div>
-
-
-
 
 ---
 
 ### Ferramentas
 <div align="center">
-  <img alt="Git" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 ---
@@ -71,7 +52,6 @@
 
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasLRibeiro&layout=compact&theme=tokyonight"/>
 
-
 </div>
 
 ---
@@ -79,9 +59,7 @@
 ## GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NicolasLRibeiro&theme=tokyonight" />
-
+  <img src="https://streak-stats.demolab.com?user=NicolasLRibeiro&theme=tokyonight" />
 </div>
 
 ---
@@ -97,3 +75,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
