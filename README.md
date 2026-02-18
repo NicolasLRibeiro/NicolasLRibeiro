@@ -1,19 +1,47 @@
-## Olá, sou o Nicolas 👋  
-### Técnico em Mecatrônica e estudante de Engenharia de Software  
-Conhecimentos em **C++, C, Python e Java**
+# 👋 Olá, eu sou o Nicolas  
 
+### 🎓 Técnico em Mecatrônica  
+### 💻 Estudante de Engenharia de Software  
+
+---
+
+## Tecnologias
+
+### Linguagens
 <div align="center">
-  <img alt="Nicolas-Cplusplus" height="30" width="40"
+  <img alt="C++" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Nicolas-C" height="30" width="40"
+  <img alt="C" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img alt="Nicolas-Python" height="30" width="40"
+  <img alt="Python" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Nicolas-Java" height="30" width="40"
+  <img alt="Java" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="JavaScript" height="35" width="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
-##
+---
+
+### Desenvolvimento Web
+<div align="center">
+  <img alt="React" height="35" width="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="NodeJS" height="35" width="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+</div>
+
+---
+
+### Tools
+<div align="center">
+  <img alt="Git" height="35" width="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
+
+---
+
+## Contato
 
 <div align="center">
   <a href="mailto:nicolaslourenco32@gmail.com">
@@ -24,4 +52,3 @@ Conhecimentos em **C++, C, Python e Java**
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
