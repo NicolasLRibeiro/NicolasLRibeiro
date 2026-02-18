@@ -1,14 +1,14 @@
-# 👋 Olá, eu sou o Nicolas  
+#  Olá, eu sou o Nicolas  
 
-🎓 Técnico em Mecatrônica  
-💻 Estudante de Engenharia de Software  
-🎯 Focado em desenvolvimento Back-end e aplicações Web  
+ Técnico em Mecatrônica  
+ Estudante de Engenharia de Software  
+ Focado em desenvolvimento Back-end e aplicações Web  
 
 ---
 
-## 🚀 Stack & Tecnologias
+## Stack & Tecnologias
 
-### 💻 Linguagens
+### Linguagens
 <div align="center">
   <img alt="C++" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -24,7 +24,7 @@
 
 ---
 
-### 🌐 Desenvolvimento Web
+### Desenvolvimento Web
 <div align="center">
   <img alt="React" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -34,17 +34,19 @@
 
 ---
 
-### 🗄 Banco de Dados
+###  Banco de Dados
 <div align="center">
-  <img alt="MySQL" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="Neo4j" height="35" width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" />
+  <img alt="MySQL" height="45" width="55"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Neo4j" height="45" width="55"
+    style="filter: brightness(1.1);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
 </div>
 
 ---
 
-### 🛠 Ferramentas
+### Ferramentas
 <div align="center">
   <img alt="Git" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -52,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -65,7 +67,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 
@@ -75,7 +77,7 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
   <a href="mailto:nicolaslourenco32@gmail.com">
