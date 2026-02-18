@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o Nicolas  
 
-### 🎓 Técnico em Mecatrônica  
-### 💻 Estudante de Engenharia de Software  
+ Técnico em Mecatrônica  
+ Estudante de Engenharia de Software   
 
 ---
 
-## Tecnologias
+## Stack & Tecnologias
 
 ### Linguagens
 <div align="center">
@@ -33,11 +33,27 @@
 
 ---
 
-### Tools
+### Banco de Dados
+<div align="center">
+  <img alt="MySQL" height="35" width="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Neo4j" height="35" width="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" />
+</div>
+
+---
+
+### Ferramentas
 <div align="center">
   <img alt="Git" height="35" width="45"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
+
+---
+
+## GitHub Stats
+
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
 
 ---
 
