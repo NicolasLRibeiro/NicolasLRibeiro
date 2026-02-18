@@ -34,21 +34,23 @@
 ---
 
 ###  Banco de Dados
-### 🗄 Banco de Dados
 <div align="center">
   <img 
     alt="MySQL" 
     height="50" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
   />
+  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <img 
     alt="Neo4j" 
     height="50" 
-    style="filter: brightness(0) invert(1);"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-plain.svg" 
   />
 </div>
+
+
 
 
 ---
