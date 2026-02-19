@@ -15,6 +15,7 @@
   <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="OpenSCAD" height="40" src="https://cdn.simpleicons.org/openscad/white" />
+</div>
 
 </p>
 
