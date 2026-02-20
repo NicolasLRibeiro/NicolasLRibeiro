@@ -72,7 +72,9 @@
 ### Ferramentas
 <div align="center">
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ 
 </div>
+
 
 ---
 
