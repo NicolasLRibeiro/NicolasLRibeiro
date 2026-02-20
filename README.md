@@ -54,7 +54,9 @@
   <img 
     alt="AWS Amplify"
     height="40"
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awsamplify.svg"
+   <div align="center">
+  <img src="https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
+</div>
   />
 </div>
 
