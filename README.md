@@ -47,13 +47,16 @@
 
 
 ---
+
 ## Cloud
 
-<img 
-  alt="AWS Amplify"
-  height="40"
-  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awsamplify.svg"
-/>
+<div align="center">
+  <img 
+    alt="AWS Amplify"
+    height="40"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/awsamplify.svg"
+  />
+</div>
 
 ---
 
