@@ -49,10 +49,13 @@
 ---
 
 ### Cloud
-<div align="center">
-  <img alt="AWS Amplify" height="40" src="https://cdn.simpleicons.org/awsamplify/white" />
-</div>
+<img 
+  alt="AWS Amplify" 
+  height="40" 
+  src="https://cdn.simpleicons.org/awsamplify" 
+/>
 
+---
 
 ### Ferramentas
 <div align="center">
