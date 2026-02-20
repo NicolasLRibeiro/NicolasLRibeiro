@@ -48,6 +48,12 @@
 
 ---
 
+### Cloud
+<div align="center">
+  <img alt="AWS Amplify" height="40" src="https://cdn.simpleicons.org/awsamplify/white" />
+</div>
+
+
 ### Ferramentas
 <div align="center">
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
