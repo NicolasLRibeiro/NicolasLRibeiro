@@ -51,15 +51,22 @@
 ## Cloud
 
 <div align="center">
+  <!-- Logo AWS -->
   <img 
-    alt="AWS Amplify"
-    height="40"
-   <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
-</div>
+    height="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
   />
 </div>
 
+<br>
+
+<div align="center">
+  <!-- AWS Amplify -->
+  <img src="https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
+  
+  <!-- AWS Bedrock -->
+  <img src="https://img.shields.io/badge/AWS-Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
 ---
 
 ### Ferramentas
