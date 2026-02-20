@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou o Nicolas  
 
- Técnico em Mecatrônica  
- Estudante de Engenharia de Software  
+Técnico em Mecatrônica  
+Estudante de Engenharia de Software  
 
 ---
 
-##  Stack & Tecnologias
+## Stack & Tecnologias
 
 ### Linguagens
-<p align="center">
+<div align="center">
   <img alt="C++" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -18,8 +18,6 @@
 </div>
 
 ---
-</p>
-
 
 ### Desenvolvimento Web
 <div align="center">
@@ -30,28 +28,16 @@
 ---
 
 ### Banco de Dados
-<p align="center">
-  <img 
-    alt="MySQL" 
-    height="60" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-  />
-  <img 
-    alt="Neo4j"
-    height="60"
-    src="https://cdn.simpleicons.org/neo4j/white"
-  />
-</p>
-
+<div align="center">
+  <img alt="MySQL" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Neo4j" height="60" src="https://cdn.simpleicons.org/neo4j/white" />
 </div>
-
 
 ---
 
 ## Cloud
 
 <div align="center">
-  <!-- Logo AWS -->
   <img 
     height="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
@@ -61,31 +47,24 @@
 <br>
 
 <div align="center">
-  <!-- AWS Amplify -->
   <img src="https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
-  
-  <!-- AWS Bedrock -->
   <img src="https://img.shields.io/badge/AWS-Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
+
 ---
 
 ### Ferramentas
 <div align="center">
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- 
 </div>
-
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasLRibeiro&show_icons=true&theme=tokyonight"/>
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasLRibeiro&layout=compact&theme=tokyonight"/>
-
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasLRibeiro&show_icons=true&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasLRibeiro&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
