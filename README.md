@@ -36,7 +36,6 @@ Estudante de Engenharia de Software
 ---
 
 ## Cloud
-
 <div align="center">
   <img 
     height="60"
