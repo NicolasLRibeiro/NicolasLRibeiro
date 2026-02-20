@@ -47,13 +47,9 @@
 
 
 ---
+## Cloud
 
-<img 
-  alt="AWS Amplify" 
-  height="40" 
-  src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/awsamplify.svg"
-  style="filter: invert(1);"
-/>
+<img src="https://img.shields.io/badge/AWS-Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" />
 
 ---
 
