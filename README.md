@@ -48,11 +48,11 @@
 
 ---
 
-### Cloud
 <img 
   alt="AWS Amplify" 
   height="40" 
-  src="https://cdn.simpleicons.org/awsamplify" 
+  src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/awsamplify.svg"
+  style="filter: invert(1);"
 />
 
 ---
